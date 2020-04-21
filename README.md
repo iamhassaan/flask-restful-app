@@ -75,7 +75,7 @@ Sends a request to external api to get the translation.
   
   
   
-  The translated word can be 
+The translated word can be used to create a store or item name in the database.
   
  
  

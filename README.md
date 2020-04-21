@@ -80,12 +80,12 @@ The translated word can be used to create a store or item name in the database.
  
  
 Link to URL:
-https://my-own-stores-api.herokuapp.com/
+https://my-own-stores-api.herokuapp.com/  
 
 or
 https://my-very-own-stores-api.herokuapp.com/
   
-  
+If none of the link works (due to internal server error), I can also demonstrate the api in local host. 
   
   
   
